@@ -7,15 +7,13 @@
 
 # Site settings
 title: Living and Leading with Love
-email: your-email@domain.com
+email: to-be-added@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Description Here
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: to-be-added
+github_username:  l3siteadmin
 
 # Build settings
 markdown: kramdown
