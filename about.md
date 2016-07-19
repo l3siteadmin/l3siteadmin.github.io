@@ -3,6 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-Description here
-
-<a href="www.brescia.edu">About</a>
+<a href="http://www.brescis.edu/l3_application">Apply Here!</a>
