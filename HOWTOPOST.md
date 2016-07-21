@@ -24,3 +24,4 @@ Note: Do not edit anything, including date. The only field that should be edited
 5. Then you can begin to type whatever you would like to include in your post.
 
 6. Commit changes. 
+
