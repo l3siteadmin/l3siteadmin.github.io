@@ -1,8 +1,8 @@
 <html>
   <body>
+    Posting
 <?php
-echo "Posting";
-$name = "/_posts/" + $datePost + $namePost + ".markup";
+$name = "/_posts/" + $_POST[datePost] + $_POST[namePost] + ".markup";
 $myfile = fopen($name, "w") or die("Unable to create file!");
 $txt = "---\n";
 fwrite($myfile, $txt);
