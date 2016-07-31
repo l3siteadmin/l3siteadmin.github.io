@@ -8,7 +8,7 @@
 # Site settings
 title: Living and Leading with Love
 email: to-be-added@domain.com
-description: Description Here  # this means to ignore newlines until "baseurl:"
+description: Through the generous grant support of the Lilly Endowment, Brescia University will begin a youth theological institute for high school students beginning in August 2016 called, “Living and Leading with Love”. Fifteen to 20 students will participate a year-long program that will include theological reflections, online learning, service opportunities, retreats, prayer experiences, and a ten-day, intensive on-ground experience at Brescia University during the summer to conclude.  # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
