@@ -2,7 +2,7 @@
   <body>
     Posting
 <?php
-$name = "/_posts/" + $_POST["datePost"] + $_POST["namePost"] + ".markup";
+$name = "l3siteadmin.github.io/tree/master/_posts/" + $_POST["datePost"] + $_POST["namePost"] + ".markup";
 $myfile = fopen($name, "w") or die("Unable to create file!");
 $txt = "---\n";
 fwrite($myfile, $txt);
